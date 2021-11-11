@@ -1,0 +1,2 @@
+# documents
+luckyCoin documents
